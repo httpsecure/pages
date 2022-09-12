@@ -41,7 +41,7 @@ disableHugoGeneratorInject = true
   description = "Aziz Personal Portofolio"
   keywords = ""
   images = [""]
-  homeSubtitle = "Hello i'm Aziz, i'm a open source entusiast, i love computer science. Visit [here](/about/) for detail. Thanks"
+  homeSubtitle = "Hello i'm Aziz, i'm a open source entusiast, i love computer science. Visit [here](https://aziz.pages.dev/about/) for detail. Thanks"
   
   # Enable theme toggle
   enableThemeToggle = true
@@ -55,11 +55,6 @@ disableHugoGeneratorInject = true
   [[params.social]]
   name = "github"
   url  = "https://github.com/httpsecure"
-   
-  [privacy]
-  [privacy.youtube]
-  disable = false
-  privacyEnhanced = true
 
   
 
