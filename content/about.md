@@ -29,7 +29,7 @@ My Github account :
 
 [https://github.com/httpsecure](https://github.com/httpsecure)
 
-You can comunicate with me in English or Bahasa Indonesia (preferred, if you know the language).
+You can comunicate with me in English or Bahasa Nusantara (preferred, if you know the language).
 
 This site powered by [Hugo](https://gohugo.io) and running under [Cloudflare Pages](https://cloudfalre.com).
 
