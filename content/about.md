@@ -35,5 +35,5 @@ This site powered by [Hugo](https://gohugo.io) and running under [Cloudflare Pag
 
 Thanks to [Bjørn Erik Pedersen](https://github.com/bep), [Steve Francia](https://github.com/spf13) and all peoples who countribute in awesome [Hugo](https://github.com/gohugoio) project.
 
-The Source code of this theme avaliable [here](https://github.com/httpsecure).
+The Source code of this theme avaliable [here](https://github.com/httpsecure/pages).
 
