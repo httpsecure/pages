@@ -1,0 +1,15 @@
+{{ define "main" }}
+    <main>
+        <div class="biografi">
+            {{- with .Site.Params.homeSubtitle  | markdownify }}
+            <p>{{.}}</p>
+            {{- end }}
+        </div> 
+            {{- with .Site.Params.social }}
+                <div>
+            {{ partial "social-icons.html" . }}
+                </div>
+            {{- end }}
+        </div>
+    </main>
+{{ end }}

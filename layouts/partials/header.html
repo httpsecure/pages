@@ -1,0 +1,9 @@
+<header class="header">
+    <span class="header__inner">
+        {{ partial "logo.html" . }}
+            {{- if .Site.Params.EnableThemeToggle }}
+                <span class="theme-toggle not-selectable">{{ partial "theme-toggle-icon.html" . }}</span>
+            {{- end}}
+        </span>
+    </span>
+</header>

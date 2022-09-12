@@ -1,0 +1,66 @@
+baseURL = "/"
+title   = "Aziz"
+languageCode = "en"
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+paginate  = 1
+pluralizelisttitles = "false"
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = true
+
+
+[author]
+  name = "Aziz"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+  favicon = "/fav.png"
+
+  # Metadata mostly used in document's head
+  
+  description = "Aziz Personal Portofolio"
+  keywords = ""
+  images = [""]
+  homeSubtitle = "Hello i'm Aziz, i'm a open source entusiast, i love computer science. Visit [here](/about/) for detail. Thanks"
+  
+  # Enable theme toggle
+  enableThemeToggle = true
+  defaultTheme = "light"
+
+
+  [params.logo]
+  logoText     = "Aziz"
+
+  # Social icons
+  [[params.social]]
+  name = "github"
+  url  = "https://github.com/httpsecure"
+   
+  [privacy]
+  [privacy.youtube]
+  disable = false
+  privacyEnhanced = true
+
+  
+
+
